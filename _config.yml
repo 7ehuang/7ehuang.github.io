@@ -92,6 +92,8 @@ publication_category:
     title: 'Conference Papers'
   reviews:
     title: 'Review Articles'
+  elsi:
+    title: 'ELSI (Ethical, Legal, and Social Implications) Research'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
