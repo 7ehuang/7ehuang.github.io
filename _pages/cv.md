@@ -9,8 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Bioinformatics, UCLA, 2026 (expected)
-* B.S. in Neuroscience, Lafayette College, 2019
-* B.A. in Philosophy, Lafayette College, 2019
+[CV]('https://7ehuang.github.io/files/CV_academic_berk.pdf')
