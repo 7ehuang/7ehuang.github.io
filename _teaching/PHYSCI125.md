@@ -8,4 +8,4 @@ date: 2024-03-01
 location: "Los Angeles, CA"
 ---
 
-Lectured, held discussions, wrote and graded exams on topics in various -omics fields and high-throughput technologies, bioinformatic tools, and systems biology modeling
+Lectured, held discussions, wrote and graded exams on topics in various -omics fields and high-throughput technologies, bioinformatic tools, and systems biology modeling.
