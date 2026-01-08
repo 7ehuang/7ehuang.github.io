@@ -1,5 +1,5 @@
 ---
-title: "“Barred from better medicine? Reexamining the regulatory barriers to the inclusion of prisoners in research."
+title: "Barred from better medicine? Reexamining the regulatory barriers to the inclusion of prisoners in research."
 collection: publications
 category: elsi
 permalink: /publication/barred_from_better_medicine
